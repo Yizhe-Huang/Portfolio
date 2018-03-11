@@ -33,4 +33,11 @@ p {
   font-family: " Times New Roman", serif;
   font-size: 24px;
   color: #9567E2;  
+    
+}
+fa fa-android {
+    
+    color: 	#FFD700;
+    font-size: 90px;
+    text-align: center;
 }
